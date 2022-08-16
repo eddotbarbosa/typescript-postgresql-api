@@ -40,6 +40,10 @@ DB_URI="your postgresql database URI"
 JWT_SECRET="some secrect key"
 ```
 ### running:
+run prisma migrations
+```
+npx prisma migrate dev
+```
 project in dev mode
 ```
 npm run dev
@@ -48,11 +52,11 @@ tests
 ```
 npm test
 ```
-Build
+build
 ```
 npm build
 ```
-Run Build
+run build
 ```
 npm start
 ```
