@@ -2,6 +2,9 @@
 
 A project made with typescript and postgresql to experiment some approaches.
 
+## Related Repositories
+[Vite React TS API Consumer](https://github.com/eddotbarbosa/vite-react-ts-api-consumer)
+
 ## Getting Started
 
 ## Features
